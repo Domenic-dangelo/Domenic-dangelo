@@ -1,6 +1,6 @@
 <h1>Hi there 👋</h1>
 
-<p>Hi, My name is domenic dangelo and I am a student attending St.Mother Teresa high school in Canada. I am a calm and hard working person who loves video games and sports</p>
+<p>Hi, My name is domenic dangelo and I am a student attending St.Mother Teresa high school in Canada.</p>
 
 <h2>✍ Programming Languages</h2>
 <p>
